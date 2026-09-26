@@ -10,7 +10,7 @@ My work spans data analytics, machine learning, statistical analysis, visualizat
 
 - **Machine learning:** regression, classification, clustering, model evaluation (scikit-learn)
 - **Statistics:** hypothesis testing, A/B testing, regression analysis, experimental design
-- **Programming & data:** Python (pandas, NumPy, matplotlib, seaborn), SQL, Jupyter, Git
+- **Programming & data:** Python (pandas, NumPy, matplotlib, seaborn), SQL (PostgreSQL), Jupyter, Git
 - **Visualization & BI:** Power BI (DAX), Excel
 - **Healthcare data:** electronic health records, clinical data quality, data governance
 
@@ -24,6 +24,16 @@ My work spans data analytics, machine learning, statistical analysis, visualizat
 ## Portfolio
 
 Healthcare data science projects, from data cleaning and SQL analysis to dashboards and machine learning.
+
+### [Medicare Opioid Prescribing vs. Overdose Deaths](https://github.com/Isaac-Agyapong/Medicare_Opioid_Prescribing)
+
+**PostgreSQL · Python · Power BI** · real CMS, CDC and Census data
+
+Analysis of 7.8 million Medicare Part D prescriber records (2019–2024) alongside 12 years of prescribing rates and CDC overdose deaths.
+
+- Showed that opioid prescribing fell **39.5%** since 2013 while overdose deaths **doubled**, with **92%** of opioid deaths now involving fentanyl-type drugs, and that the highest-prescribing states are not the states with the most deaths.
+- Found that nurse practitioners and PAs grew from **23% to 30%** of Medicare opioid prescriptions, and flagged **5,721** peer-outlier prescribers, 1 in 5 of them for six straight years.
+- Built a PostgreSQL star schema (raw → core → analytics, 10 data-quality checks, window functions and statistical SQL) and a 4-page Power BI report generated from code, with a US tile map, hover tooltips and 53 DAX measures.
 
 ### [Healthcare Claims Analytics](https://github.com/Isaac-Agyapong/Healthcare_Claims_Analytics)
 
