@@ -1,16 +1,16 @@
-## Hi there 👋
+# Isaac Agyapong
 
-<!--
-**Isaac-Agyapong/Isaac-Agyapong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Clinical Data Scientist | Data Analytics | Health Analytics
 
-Here are some ideas to get you started:
+I have over five years of experience working with clinical data to support healthcare decision-making, including managing electronic health records covering more than 500,000 patients at the Ghana Health Service.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work spans data analytics, machine learning, statistical analysis, visualization, data governance, and data quality.
+
+## Education
+
+- **M.S. Data Science**, Florida Polytechnic University | Expected May 2027
+- **B.Sc. Health Information Management**, College of Health Sciences, Yamfo, Ghana
+
+## Portfolio
+
+Data analytics and data science projects across healthcare and business, covering dashboards, predictive modeling, A/B testing, forecasting, and data quality.
