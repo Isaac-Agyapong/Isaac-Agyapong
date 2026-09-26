@@ -8,11 +8,14 @@ My work spans data analytics, machine learning, statistical analysis, visualizat
 
 ## Skills
 
-- **Machine learning:** regression, classification, clustering, model evaluation (scikit-learn)
-- **Statistics:** hypothesis testing, A/B testing, regression analysis, experimental design
-- **Programming & data:** Python (pandas, NumPy, matplotlib, seaborn), SQL (PostgreSQL), Jupyter, Git
+- **Machine learning:** regression, classification, clustering,decision trees, random forest, gradient boosting/XGBoost, K-nearest neighbors (KNN), support vector machines (SVM) , PCA,UMAP, model evaluation
+- **Statistics :** hypothesis testing, A/B testing, regression analysis, experimental design
+- **Programming & data:** Python (pandas, NumPy, matplotlib, seaborn), SQL (PostgreSQL), Jupyter, Git , R
 - **Visualization & BI:** Power BI (DAX), Excel
 - **Healthcare data:** electronic health records, clinical data quality, data governance
+- **Cloud*: AWS
+- **Excel**: PivotTables, XLOOKUP, Power Query, charts, formulas
+
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/isaac-agyapong) · [isaacagyapong2030@gmail.com](mailto:isaacagyapong2030@gmail.com)
 
