@@ -13,7 +13,7 @@ My work spans data analytics, machine learning, statistical analysis, visualizat
 - **Programming & data:** Python (pandas, NumPy, matplotlib, seaborn), SQL (PostgreSQL), Jupyter, Git , R
 - **Visualization & BI:** Power BI (DAX), Excel
 - **Healthcare data:** electronic health records, clinical data quality, data governance
-- **Cloud*: AWS
+- **Cloud**: AWS
 - **Excel**: PivotTables, XLOOKUP, Power Query, charts, formulas
 
 
