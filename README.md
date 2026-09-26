@@ -2,7 +2,7 @@
 
 Data Scientist | Health Informatics | Machine Learning & Healthcare Analytics
 
-I have over five years of experience working with clinical data to support healthcare decision-making, including managing electronic health records covering more than 500,000 patients at the Ghana Health Service.
+I have over five years of experience working with clinical data to support healthcare decision-making, including managing electronic health records covering more than 500,000 patients.
 
 My work spans data analytics, machine learning, statistical analysis, visualization, data governance, and data quality.
 
@@ -18,7 +18,7 @@ My work spans data analytics, machine learning, statistical analysis, visualizat
 
 ## Education
 
-- **M.S. Data Science**, Florida Polytechnic University |
+- **M.S. Data Science**
 - **B.Sc. Health Information Management**
 
 ## Portfolio
