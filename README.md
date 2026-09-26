@@ -1,6 +1,6 @@
 # Isaac Agyapong
 
-Health Data Analyst | M.S. Data Science Candidate | Health Analytics
+Data Scientist | Health Data Analyst | Health Informatics | M.S Data Sciennce| BSc Health Information Management
 
 I have over five years of experience working with clinical data to support healthcare decision-making, including managing electronic health records covering more than 500,000 patients at the Ghana Health Service.
 
