@@ -29,6 +29,8 @@ Healthcare data science projects, from data cleaning and SQL analysis to dashboa
 
 **PostgreSQL · Python · Power BI** · real CMS, CDC and Census data
 
+<a href="https://github.com/Isaac-Agyapong/Medicare_Opioid_Prescribing"><img src="https://raw.githubusercontent.com/Isaac-Agyapong/Medicare_Opioid_Prescribing/main/Image/powerbi_page1.png" alt="Medicare opioid prescribing Power BI dashboard" width="820"></a>
+
 Analysis of 7.8 million Medicare Part D prescriber records (2019–2024) alongside 12 years of prescribing rates and CDC overdose deaths.
 
 - Showed that opioid prescribing fell **39.5%** since 2013 while overdose deaths **doubled**, with **92%** of opioid deaths now involving fentanyl-type drugs, and that the highest-prescribing states are not the states with the most deaths.
@@ -38,6 +40,8 @@ Analysis of 7.8 million Medicare Part D prescriber records (2019–2024) alongsi
 ### [Healthcare Claims Analytics](https://github.com/Isaac-Agyapong/Healthcare_Claims_Analytics)
 
 **Python · SQL · Excel · Power BI**
+
+<a href="https://github.com/Isaac-Agyapong/Healthcare_Claims_Analytics"><img src="https://raw.githubusercontent.com/Isaac-Agyapong/Healthcare_Claims_Analytics/main/Image/powerbi_page1.png" alt="Healthcare claims Power BI dashboard" width="820"></a>
 
 End-to-end analysis of 50,000 synthetic health insurance claims, modeled on real-world denial patterns, to find where claim revenue is being lost.
 
