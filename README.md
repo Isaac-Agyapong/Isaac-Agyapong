@@ -8,8 +8,8 @@ My work spans data analytics, machine learning, statistical analysis, visualizat
 
 ## Education
 
-- **M.S. Data Science**, Florida Polytechnic University | Expected May 2027
-- **B.Sc. Health Information Management**, College of Health Sciences, Yamfo, Ghana
+- **M.S. Data Science**, Florida Polytechnic University | May 2027
+- **B.Sc. Health Information Management**, College of Health, Yamfo, Ghana
 
 ## Portfolio
 
