@@ -19,7 +19,7 @@ Data analytics and data science projects across healthcare and business, coverin
 
 **Python · SQL · Excel · Power BI**
 
-End-to-end analysis of 50,000 health insurance claims to find where claim revenue is being lost.
+End-to-end analysis of 50,000 synthetic health insurance claims, modeled on real-world denial patterns, to find where claim revenue is being lost.
 
 - Traced **$19.2M in denied charges** to their causes. Missing prior-authorization denials rose **99% year over year**.
 - Found that out-of-network claims are denied **about twice as often** as in-network claims, and flagged 3 providers whose denial rates are 19–25 points above their peers.
