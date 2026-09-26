@@ -1,12 +1,18 @@
 # Isaac Agyapong
 
-Data Scientist | Health Data Analyst | Health Informatics | M.S Data Sciennce| BSc Health Information Management
+Data Scientist | Health Informatics | Machine Learning & Healthcare Analytics
 
 I have over five years of experience working with clinical data to support healthcare decision-making, including managing electronic health records covering more than 500,000 patients at the Ghana Health Service.
 
 My work spans data analytics, machine learning, statistical analysis, visualization, data governance, and data quality.
 
-**Skills:** SQL · Python (pandas, NumPy, matplotlib) · Excel · Power BI (DAX) · Jupyter · Git
+## Skills
+
+- **Machine learning:** regression, classification, clustering, model evaluation (scikit-learn)
+- **Statistics:** hypothesis testing, A/B testing, regression analysis, experimental design
+- **Programming & data:** Python (pandas, NumPy, matplotlib, seaborn), SQL, Jupyter, Git
+- **Visualization & BI:** Power BI (DAX), Excel
+- **Healthcare data:** electronic health records, clinical data quality, data governance
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/isaac-agyapong) · [isaacagyapong2030@gmail.com](mailto:isaacagyapong2030@gmail.com)
 
@@ -17,7 +23,7 @@ My work spans data analytics, machine learning, statistical analysis, visualizat
 
 ## Portfolio
 
-Healthcare data analytics projects, from data cleaning and SQL analysis to interactive dashboards.
+Healthcare data science projects, from data cleaning and SQL analysis to dashboards and machine learning.
 
 ### [Healthcare Claims Analytics](https://github.com/Isaac-Agyapong/Healthcare_Claims_Analytics)
 
