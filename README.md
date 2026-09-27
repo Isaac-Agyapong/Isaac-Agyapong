@@ -28,6 +28,18 @@ My work spans data analytics, machine learning, statistical analysis, visualizat
 
 Healthcare data science projects, from data cleaning and SQL analysis to dashboards and machine learning.
 
+### [Early Warning Machine Learning Model for High-Risk Opioid Prescribing](https://github.com/Isaac-Agyapong/Opioid_Prescriber_Risk_Model)
+
+**Python · XGBoost · SHAP · PostgreSQL · Streamlit** · ▶ **[Live app](https://opioid-early-warning.streamlit.app)**
+
+<a href="https://opioid-early-warning.streamlit.app"><img src="https://raw.githubusercontent.com/Isaac-Agyapong/Opioid_Prescriber_Risk_Model/main/Image/app_screenshot.png" alt="Early warning model Streamlit app" width="820"></a>
+
+Predicts which Medicare prescribers will become opioid prescribing outliers within two years, trained on 7.8 million real CMS Part D records.
+
+- A 1,000-prescriber review list built from the model is **37.7% correct (95% CI 34–40%)**, nearly double the 21% of the best simple rule and **84x** random selection, on a test year never used for training or tuning.
+- Strict time-based evaluation (tuned on 2020, backtested on 2021, tested on 2022 → 2023-24), calibrated probabilities, bootstrap confidence intervals and a model card.
+- **SHAP** explains every score; a deployed Streamlit app lets anyone score a prescriber profile and see why.
+
 ### [Medicare Opioid Prescribing vs. Overdose Deaths](https://github.com/Isaac-Agyapong/Medicare_Opioid_Prescribing)
 
 **PostgreSQL · Python · Power BI** · real CMS, CDC and Census data
