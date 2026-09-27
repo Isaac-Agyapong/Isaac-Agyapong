@@ -8,6 +8,11 @@ My work spans data analytics, machine learning, statistical analysis, visualizat
 
 **Open to data science and health analytics roles, available from May 2027.**
 
+## Education
+
+- **M.S. Data Science**, Florida Polytechnic University | Expected May 2027
+- **B.Sc. Health Information Management**, College of Health, Yamfo, Ghana | 2022
+
 ## Skills
 
 - **Machine learning:** regression, classification, clustering, decision trees, random forest, gradient boosting (XGBoost), k-nearest neighbors (KNN), support vector machines (SVM), PCA, UMAP, model evaluation, SHAP
@@ -18,11 +23,6 @@ My work spans data analytics, machine learning, statistical analysis, visualizat
 - **Cloud:** AWS
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/isaac-agyapong) · [isaacagyapong2030@gmail.com](mailto:isaacagyapong2030@gmail.com)
-
-## Education
-
-- **M.S. Data Science**, Florida Polytechnic University | Expected May 2027
-- **B.Sc. Health Information Management**, College of Health, Yamfo, Ghana | 2022
 
 ## Portfolio
 
