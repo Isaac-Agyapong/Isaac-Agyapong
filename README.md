@@ -6,23 +6,23 @@ I have over five years of experience working with clinical data to support healt
 
 My work spans data analytics, machine learning, statistical analysis, visualization, data governance, and data quality.
 
+**Open to data science and health analytics roles, available from May 2027.**
+
 ## Skills
 
-- **Machine learning:** regression, classification, clustering,decision trees, random forest, gradient boosting/XGBoost, K-nearest neighbors (KNN), support vector machines (SVM) , PCA,UMAP, model evaluation
-- **Statistics :** hypothesis testing, A/B testing, regression analysis, experimental design
-- **Programming & data:** Python (pandas, NumPy, matplotlib, seaborn), SQL (PostgreSQL), Jupyter, Git , R
-- **Visualization & BI:** Power BI (DAX), Excel
+- **Machine learning:** regression, classification, clustering, decision trees, random forest, gradient boosting (XGBoost), k-nearest neighbors (KNN), support vector machines (SVM), PCA, UMAP, model evaluation, SHAP
+- **Statistics:** hypothesis testing, A/B testing, regression analysis, experimental design
+- **Programming & data:** Python (pandas, NumPy, matplotlib, seaborn), SQL (PostgreSQL), R, Jupyter, Git, Streamlit
+- **Visualization & BI:** Power BI (DAX), Excel (PivotTables, XLOOKUP, Power Query)
 - **Healthcare data:** electronic health records, clinical data quality, data governance
-- **Cloud**: AWS
-- **Excel**: PivotTables, XLOOKUP, Power Query, charts, formulas
-
+- **Cloud:** AWS
 
 **Contact:** [LinkedIn](https://www.linkedin.com/in/isaac-agyapong) · [isaacagyapong2030@gmail.com](mailto:isaacagyapong2030@gmail.com)
 
 ## Education
 
-- **M.S. Data Science**
-- **B.Sc. Health Information Management**
+- **M.S. Data Science**, Florida Polytechnic University | Expected May 2027
+- **B.Sc. Health Information Management**, College of Health, Yamfo, Ghana | 2022
 
 ## Portfolio
 
@@ -62,4 +62,4 @@ End-to-end analysis of 50,000 synthetic health insurance claims, modeled on real
 
 - Traced **$19.2M in denied charges** to their causes. Missing prior-authorization denials rose **99% year over year**.
 - Found that out-of-network claims are denied **about twice as often** as in-network claims, and flagged 3 providers whose denial rates are 19–25 points above their peers.
-- Built the full pipeline: data cleaning with validation checks in Python, 13 analytical SQL queries (CTEs and window functions), a formula-driven Excel dashboard, and a 3-page Power BI report with 22 DAX measures.
+- Built the full pipeline: data cleaning with validation checks in Python, 13 analytical SQL queries (CTEs and window functions), a formula-driven Excel dashboard, and a 4-page Power BI report with 44 DAX measures.
