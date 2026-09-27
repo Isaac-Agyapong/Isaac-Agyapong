@@ -2,9 +2,7 @@
 
 Data Scientist | Health Informatics | Machine Learning & Healthcare Analytics
 
-I have over five years of experience working with clinical data to support healthcare decision-making, including managing electronic health records covering more than 500,000 patients.
-
-My work spans data analytics, machine learning, statistical analysis, visualization, data governance, and data quality.
+I have more than five years of experience working with clinical data, including managing electronic health records for more than 500,000 patients. I use data analysis and machine learning to help healthcare teams make better decisions.
 
 **Open to data science and health analytics roles, available from May 2027.**
 
@@ -26,7 +24,7 @@ My work spans data analytics, machine learning, statistical analysis, visualizat
 
 ## Portfolio
 
-Healthcare data science projects, from data cleaning and SQL analysis to dashboards and machine learning.
+Three healthcare projects. Click any picture to open the project.
 
 ### [Early Warning Machine Learning Model for High-Risk Opioid Prescribing](https://github.com/Isaac-Agyapong/Opioid_Prescriber_Risk_Model)
 
@@ -34,11 +32,11 @@ Healthcare data science projects, from data cleaning and SQL analysis to dashboa
 
 <a href="https://opioid-early-warning.streamlit.app"><img src="https://raw.githubusercontent.com/Isaac-Agyapong/Opioid_Prescriber_Risk_Model/main/Image/app_screenshot.png" alt="Early warning model Streamlit app" width="820"></a>
 
-Predicts which Medicare prescribers will become opioid prescribing outliers within two years, trained on 7.8 million real CMS Part D records.
+A tool that predicts which prescribers (doctors, nurse practitioners and others) are likely to start prescribing far more opioids than others in their field within the next two years. It was built from 7.8 million public Medicare records.
 
-- A 1,000-prescriber review list built from the model is **37.7% correct (95% CI 34–40%)**, nearly double the 21% of the best simple rule and **84x** random selection, on a test year never used for training or tuning.
-- Strict time-based evaluation (tuned on 2020, backtested on 2021, tested on 2022 → 2023-24), calibrated probabilities, bootstrap confidence intervals and a model card.
-- **SHAP** explains every score; a deployed Streamlit app lets anyone score a prescriber profile and see why.
+- When the tool picks 1,000 prescribers for review, about **38%** of them really do become high prescribers. A simple rule of thumb gets **21%**, and picking at random gets **less than 1%**.
+- It was tested on newer data it had never seen, the same way it would be used in real life.
+- Every prediction comes with a plain explanation of why the prescriber was flagged. Anyone can try it in the **[live app](https://opioid-early-warning.streamlit.app)**.
 
 ### [Medicare Opioid Prescribing vs. Overdose Deaths](https://github.com/Isaac-Agyapong/Medicare_Opioid_Prescribing)
 
@@ -46,11 +44,11 @@ Predicts which Medicare prescribers will become opioid prescribing outliers with
 
 <a href="https://github.com/Isaac-Agyapong/Medicare_Opioid_Prescribing"><img src="https://raw.githubusercontent.com/Isaac-Agyapong/Medicare_Opioid_Prescribing/main/Image/powerbi_page1.png" alt="Medicare opioid prescribing Power BI dashboard" width="820"></a>
 
-Analysis of 7.8 million Medicare Part D prescriber records (2019–2024) alongside 12 years of prescribing rates and CDC overdose deaths.
+A study of how opioid prescribing in Medicare changed from 2013 to 2024, compared with overdose deaths, using public data from Medicare, the CDC and the US Census.
 
-- Showed that opioid prescribing fell **39.5%** since 2013 while overdose deaths **doubled**, with **92%** of opioid deaths now involving fentanyl-type drugs, and that the highest-prescribing states are not the states with the most deaths.
-- Found that nurse practitioners and PAs grew from **23% to 30%** of Medicare opioid prescriptions, and flagged **5,721** peer-outlier prescribers, 1 in 5 of them for six straight years.
-- Built a PostgreSQL star schema (raw → core → analytics, 10 data-quality checks, window functions and statistical SQL) and a 4-page Power BI report generated from code, with a US tile map, hover tooltips and 53 DAX measures.
+- Opioid prescribing dropped by about **40%**, but overdose deaths **doubled**. Most deaths now involve fentanyl rather than prescription pills, and the states that prescribe the most are not the states with the most deaths.
+- Nurse practitioners and physician assistants now write almost **a third** of Medicare opioid prescriptions, up from under a quarter in 2019.
+- Built a database of 7.8 million records and an interactive dashboard with a US map, so anyone can explore the results by state and year.
 
 ### [Healthcare Claims Analytics](https://github.com/Isaac-Agyapong/Healthcare_Claims_Analytics)
 
@@ -58,8 +56,8 @@ Analysis of 7.8 million Medicare Part D prescriber records (2019–2024) alongsi
 
 <a href="https://github.com/Isaac-Agyapong/Healthcare_Claims_Analytics"><img src="https://raw.githubusercontent.com/Isaac-Agyapong/Healthcare_Claims_Analytics/main/Image/powerbi_page1.png" alt="Healthcare claims Power BI dashboard" width="820"></a>
 
-End-to-end analysis of 50,000 synthetic health insurance claims, modeled on real-world denial patterns, to find where claim revenue is being lost.
+An analysis of 50,000 health insurance claims (realistic sample data) to find out why claims get denied and how much money is lost.
 
-- Traced **$19.2M in denied charges** to their causes. Missing prior-authorization denials rose **99% year over year**.
-- Found that out-of-network claims are denied **about twice as often** as in-network claims, and flagged 3 providers whose denial rates are 19–25 points above their peers.
-- Built the full pipeline: data cleaning with validation checks in Python, 13 analytical SQL queries (CTEs and window functions), a formula-driven Excel dashboard, and a 4-page Power BI report with 44 DAX measures.
+- **$19.2 million** in charges were denied. Denials for missing pre-approval (prior authorization) **nearly doubled** in one year and are now the biggest cause.
+- Claims from out-of-network providers were denied **about twice as often**, and three providers made far more billing errors than similar providers.
+- Cleaned and analyzed the data in Python, SQL and Excel, and built an interactive Power BI dashboard for managers.
