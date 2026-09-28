@@ -28,15 +28,15 @@ Five healthcare projects. Click any picture to open the project.
 
 ### [Machine Learning Model for Medicaid Expansion Impact](https://github.com/Isaac-Agyapong/Medicaid_Expansion_Impact_Model)
 
-**Python · Causal inference · EconML · Streamlit** · real US Census data
+**Python · Causal inference · EconML · Streamlit** · ▶ **[Live app](https://medicaid-expansion-impact.streamlit.app)**
 
-<a href="https://github.com/Isaac-Agyapong/Medicaid_Expansion_Impact_Model"><img src="https://raw.githubusercontent.com/Isaac-Agyapong/Medicaid_Expansion_Impact_Model/master/Image/app_overview.png" alt="Medicaid expansion impact web app" width="820"></a>
+<a href="https://medicaid-expansion-impact.streamlit.app"><img src="https://raw.githubusercontent.com/Isaac-Agyapong/Medicaid_Expansion_Impact_Model/master/Image/app_overview.png" alt="Medicaid expansion impact web app" width="820"></a>
 
 Medicaid is free or low-cost health insurance for people with low incomes. Since 2014, most states have let more low-income adults sign up for it; ten states have not. This model measures how much that decision itself helped, and predicts what would happen if the remaining states did the same.
 
 - Medicaid expansion meant about **6 fewer uninsured people in every 100** low-income adults, and about **970,000 more adults had health insurance** in 2023 because of it.
 - If the ten remaining states expanded, about **530,000 more adults** would have health insurance, almost half of them in Texas.
-- The result passed four reliability checks, and the model was tested on states it had never seen. A web app lets anyone pick a county and see what the model estimates.
+- The result passed four reliability checks, and the model was tested on states it had never seen. Anyone can pick a county and see what the model estimates in the **[live app](https://medicaid-expansion-impact.streamlit.app)**.
 
 ### [Health Insurance Coverage Gap Analysis](https://github.com/Isaac-Agyapong/Health_Insurance_Coverage_Gap_Analysis)
 
