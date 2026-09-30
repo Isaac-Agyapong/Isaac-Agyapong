@@ -62,7 +62,7 @@ def banner():
 
 def glance():
     facts = [("5+", "years of clinical data work"), ("500K+", "patient records managed"),
-             ("5", "3 dashboards · 2 ML models"), ("2", "live machine learning apps")]
+             ("6", "dashboard, analytics &amp; ML projects"), ("2", "live machine learning apps")]
     w, gap = 213, 16
     cells = ""
     for i, (num, lab) in enumerate(facts):
