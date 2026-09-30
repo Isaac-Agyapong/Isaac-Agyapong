@@ -3,7 +3,7 @@
     python assets/make_assets.py
 
 banner.svg   animated banner: name, a typing line that cycles through three messages, role line
-glance.svg   four "at a glance" facts
+glance_v2.svg   four "at a glance" facts (renamed when counts change so GitHub drops its cached copy)
 tools.svg    row of tool logos (official Simple Icons shapes; Power BI, Excel and AWS drawn as simple marks)
 """
 import re
@@ -69,7 +69,7 @@ def glance():
         x = i * (w + gap) + 1
         cells += f'''<rect x="{x}" y="1" width="{w}" height="86" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/>
   <text x="{x + w / 2}" y="44" text-anchor="middle" font-family="{FONT}" font-size="28" font-weight="800" fill="#19376D">{num}</text>
-  <text x="{x + w / 2}" y="68" text-anchor="middle" font-family="{FONT}" font-size="13.5" fill="#59636E">{lab}</text>'''
+  <text x="{x + w / 2}" y="68" text-anchor="middle" font-family="{FONT}" font-size="{13.5 if len(lab) < 30 else 12.5}" fill="#59636E">{lab}</text>'''
     return f'<svg xmlns="http://www.w3.org/2000/svg" width="902" height="90" viewBox="0 0 902 90" role="img" aria-label="At a glance">{cells}</svg>'
 
 
@@ -108,6 +108,6 @@ def tools():
 
 if __name__ == "__main__":
     (OUT / "banner.svg").write_text(banner(), encoding="utf-8")
-    (OUT / "glance.svg").write_text(glance(), encoding="utf-8")
+    (OUT / "glance_v2.svg").write_text(glance(), encoding="utf-8")
     (OUT / "tools.svg").write_text(tools(), encoding="utf-8")
-    print("wrote banner.svg, glance.svg, tools.svg")
+    print("wrote banner.svg, glance_v2.svg, tools.svg")
