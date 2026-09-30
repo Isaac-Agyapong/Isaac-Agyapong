@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-agyapong"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:isaacagyapong2030@gmail.com"><img src="https://img.shields.io/badge/Email-isaacagyapong2030-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://hospital-risk-forecast.streamlit.app"><img src="https://img.shields.io/badge/Live_app-Hospital_risk_model-3F37C9?style=for-the-badge&logo=streamlit&logoColor=white" alt="Hospital risk model live app"></a>
   <a href="https://medicaid-expansion-impact.streamlit.app"><img src="https://img.shields.io/badge/Live_app-Medicaid_model-2F5BEA?style=for-the-badge&logo=streamlit&logoColor=white" alt="Medicaid model live app"></a>
   <a href="https://opioid-early-warning.streamlit.app"><img src="https://img.shields.io/badge/Live_app-Opioid_model-4B1D63?style=for-the-badge&logo=streamlit&logoColor=white" alt="Opioid model live app"></a>
   <img src="https://img.shields.io/badge/Open_to-Data_Science_%26_Analytics_roles_·_May_2027-1F883D?style=for-the-badge" alt="Open to data science and analytics roles from May 2027">
@@ -29,14 +30,14 @@ I have more than five years of experience working with clinical data, including 
 </tr>
 <tr>
 <td colspan="2" valign="top">
-<a href="https://github.com/Isaac-Agyapong/Hospital_Financial_Distress_Model"><img src="https://raw.githubusercontent.com/Isaac-Agyapong/Hospital_Financial_Distress_Model/main/Image/app_overview.png" alt="Hospital financial distress forecast app"></a>
+<a href="https://hospital-risk-forecast.streamlit.app"><img src="https://raw.githubusercontent.com/Isaac-Agyapong/Hospital_Financial_Distress_Model/main/Image/app_overview.png" alt="Hospital financial distress forecast app"></a>
 
 **[Machine Learning Model for Hospital Financial Distress Forecasting](https://github.com/Isaac-Agyapong/Hospital_Financial_Distress_Model)**<br>
 <sub>MACHINE LEARNING · XGBOOST · SHAP · STREAMLIT</sub>
 
 An early warning for US hospitals: it predicts which ones will lose money **two years in a row**. Tested on years it had never seen, **71 in 100** of the hospitals it flagged as high risk did, and it caught **29 more** struggling hospitals early than the best rule of thumb. The app maps every hospital, explains each one's rating, and lets you test "what if" scenarios.
 
-[Code and app](https://github.com/Isaac-Agyapong/Hospital_Financial_Distress_Model)
+[▶ **Live app**](https://hospital-risk-forecast.streamlit.app) · [Code](https://github.com/Isaac-Agyapong/Hospital_Financial_Distress_Model)
 </td>
 </tr>
 <tr>
