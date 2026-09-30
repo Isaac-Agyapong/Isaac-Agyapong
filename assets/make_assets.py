@@ -15,8 +15,8 @@ FONT = "Segoe UI, Helvetica, Arial, sans-serif"
 
 
 def banner():
-    lines = ["I turn healthcare data into decisions.", "Dashboards, SQL and machine learning.",
-             "5 healthcare projects. 2 live apps."]
+    lines = ["I turn data into decisions.", "Dashboards, SQL and machine learning.",
+             "Real data. Clear answers."]
     n, per = len(lines), 4.0                     # seconds each line is shown
     total = n * per
     msgs = []

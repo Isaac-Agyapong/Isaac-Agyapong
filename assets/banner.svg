@@ -14,13 +14,13 @@
                keyTimes="0;0.0000;0.3333" values="0;1;0"/>
       <clipPath id="c0"><rect x="54" y="118" height="34" width="0">
         <animate attributeName="width" dur="12.0s" repeatCount="indefinite"
-                 keyTimes="0;0.0000;0.1333;1" values="0;0;422;422"/>
+                 keyTimes="0;0.0000;0.1333;1" values="0;0;300;300"/>
       </rect></clipPath>
       <text x="56" y="143" clip-path="url(#c0)" font-family="Consolas, Menlo, monospace" font-size="20"
-            font-weight="700" fill="#FFD166">I turn healthcare data into decisions.</text>
+            font-weight="700" fill="#FFD166">I turn data into decisions.</text>
       <rect y="122" width="2.5" height="26" fill="#FFFFFF">
         <animate attributeName="x" dur="12.0s" repeatCount="indefinite"
-                 keyTimes="0;0.0000;0.1333;1" values="58;58;480;480"/>
+                 keyTimes="0;0.0000;0.1333;1" values="58;58;358;358"/>
         <animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.51;1"/>
       </rect>
     </g>
@@ -44,13 +44,13 @@
                keyTimes="0;0.6667;1.0000" values="0;1;0"/>
       <clipPath id="c2"><rect x="54" y="118" height="34" width="0">
         <animate attributeName="width" dur="12.0s" repeatCount="indefinite"
-                 keyTimes="0;0.6667;0.8000;1" values="0;0;388;388"/>
+                 keyTimes="0;0.6667;0.8000;1" values="0;0;278;278"/>
       </rect></clipPath>
       <text x="56" y="143" clip-path="url(#c2)" font-family="Consolas, Menlo, monospace" font-size="20"
-            font-weight="700" fill="#FFD166">5 healthcare projects. 2 live apps.</text>
+            font-weight="700" fill="#FFD166">Real data. Clear answers.</text>
       <rect y="122" width="2.5" height="26" fill="#FFFFFF">
         <animate attributeName="x" dur="12.0s" repeatCount="indefinite"
-                 keyTimes="0;0.6667;0.8000;1" values="58;58;446;446"/>
+                 keyTimes="0;0.6667;0.8000;1" values="58;58;336;336"/>
         <animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.51;1"/>
       </rect>
     </g>
