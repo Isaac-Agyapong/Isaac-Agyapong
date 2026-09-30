@@ -10,7 +10,7 @@
 
 I have more than five years of experience working with clinical data, including managing electronic health records for more than 500,000 patients. I build dashboards, analyses and machine learning models that help healthcare teams make better decisions.
 
-<a name="at-a-glance"><img src="assets/glance_v2.svg" alt="5+ years of clinical data work, 500K+ patient records, 7 dashboard, analytics and machine learning projects, 2 live apps" width="100%"></a>
+<a name="at-a-glance"><img src="assets/glance_v3.svg" alt="5+ years of clinical data work, 500K+ patient records, 7 dashboard, analytics and machine learning projects" width="100%"></a>
 
 ## Featured projects
 
