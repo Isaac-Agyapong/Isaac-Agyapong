@@ -16,6 +16,18 @@ I have more than five years of experience working with clinical data, including 
 
 <table>
 <tr>
+<td colspan="2" valign="top">
+<a href="https://github.com/Isaac-Agyapong/US_Hospital_Financial_Performance_Analysis"><img src="https://raw.githubusercontent.com/Isaac-Agyapong/US_Hospital_Financial_Performance_Analysis/main/Image/dashboard_1_overview.png" alt="US hospital financial performance dashboard"></a>
+
+**[US Hospital Financial Performance Analysis](https://github.com/Isaac-Agyapong/US_Hospital_Financial_Performance_Analysis)**<br>
+<sub>ANALYTICS · POSTGRESQL · SQL · PYTHON · POWER BI</sub>
+
+13 years of financial reports from about 4,300 US hospitals. **1 in 3** hospitals lost money in 2023, and **1,009** lost money two years in a row. Rural hospitals have it hardest, and the cost of a hospital stay nearly **doubled** since 2011. The interactive dashboard lets anyone filter by year, owner, rural or city, and state, or look up a single hospital.
+
+[Dashboard and code](https://github.com/Isaac-Agyapong/US_Hospital_Financial_Performance_Analysis)
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 <a href="https://medicaid-expansion-impact.streamlit.app"><img src="https://raw.githubusercontent.com/Isaac-Agyapong/Medicaid_Expansion_Impact_Model/master/Image/app_overview.png" alt="Medicaid expansion impact app"></a>
 
