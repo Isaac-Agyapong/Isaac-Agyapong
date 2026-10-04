@@ -11,11 +11,23 @@
 
 I have more than five years of experience working with clinical data, including managing electronic health records for more than 500,000 patients. I build dashboards, analyses and machine learning models that help healthcare teams make better decisions.
 
-<a name="at-a-glance"><img src="assets/glance_v3.svg" alt="5+ years of clinical data work, 500K+ patient records, 7 dashboard, analytics and machine learning projects" width="100%"></a>
+<a name="at-a-glance"><img src="assets/glance_v4.svg" alt="5+ years of clinical data work, 500K+ patient records, 8 dashboard, analytics and machine learning projects" width="100%"></a>
 
 ## Featured projects
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://github.com/Isaac-Agyapong/US_Hospital_EHR_Interoperability_Analysis"><img src="https://raw.githubusercontent.com/Isaac-Agyapong/US_Hospital_EHR_Interoperability_Analysis/main/Image/dashboard_1_overview.png" alt="US hospital EHR interoperability scorecard dashboard"></a>
+
+**[US Hospital EHR Interoperability Analysis](https://github.com/Isaac-Agyapong/US_Hospital_EHR_Interoperability_Analysis)**<br>
+<sub>HEALTH INFORMATICS · EHR DATA QUALITY · POSTGRESQL · SQL · PYTHON · POWER BI</sub>
+
+Can US hospitals share health records electronically? Six years of Medicare data on about 4,500 hospitals, linked to the federal list of certified EHR software. **1 in 8** hospitals failed Medicare's standard in 2024, and **8 in 10** of those had no certified EHR at all. Small rural hospitals fail **twice as often**, and the EHR company matters: about **1 in 100** Epic hospitals failed against **14 in 100** on TruBridge. I also checked the data's own quality and found **585** hospitals that typed "Not Available" instead of their EHR ID.
+
+[Dashboard and code](https://github.com/Isaac-Agyapong/US_Hospital_EHR_Interoperability_Analysis)
+</td>
+</tr>
 <tr>
 <td colspan="2" valign="top">
 <a href="https://github.com/Isaac-Agyapong/US_Hospital_Financial_Performance_Analysis"><img src="https://raw.githubusercontent.com/Isaac-Agyapong/US_Hospital_Financial_Performance_Analysis/main/Image/dashboard_1_overview.png" alt="US hospital financial performance dashboard"></a>
