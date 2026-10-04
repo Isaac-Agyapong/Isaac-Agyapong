@@ -1,4 +1,4 @@
-<img src="assets/banner_v2.svg" alt="Isaac Agyapong. Data Scientist and Data Analyst, Health Informatics" width="100%">
+<img src="assets/banner_v3.svg" alt="Isaac Agyapong. Data Scientist and Data Analyst, Health Informatics" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/isaac-agyapong"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
