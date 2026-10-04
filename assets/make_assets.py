@@ -2,7 +2,7 @@
 
     python assets/make_assets.py
 
-banner.svg   animated banner: name, a typing line that cycles through three messages, role line
+banner_v2.svg   animated banner: name, a typing line that cycles through three messages, role line
 glance_v2.svg   four "at a glance" facts (renamed when counts change so GitHub drops its cached copy)
 tools.svg    row of tool logos (official Simple Icons shapes; Power BI, Excel and AWS drawn as simple marks)
 """
@@ -56,7 +56,7 @@ def banner():
   <text x="56" y="58" font-family="{FONT}" font-size="16" font-weight="600" fill="#A5D7E8">Hi, I'm</text>
   <text x="54" y="102" font-family="{FONT}" font-size="40" font-weight="800" fill="#FFFFFF">Isaac Agyapong</text>
   {"".join(msgs)}
-  <text x="56" y="188" font-family="{FONT}" font-size="16" fill="#D6E4FF">Data Scientist  ·  Data Analyst  ·  Health Informatics  ·  M.S. Data Science, Florida Poly (May 2027)</text>
+  <text x="56" y="188" font-family="{FONT}" font-size="16" fill="#D6E4FF">Data Scientist  ·  Data Analyst  ·  Health Informatics  ·  M.S. Data Science (May 2027)</text>
 </svg>'''
 
 
@@ -108,7 +108,7 @@ def tools():
 
 
 if __name__ == "__main__":
-    (OUT / "banner.svg").write_text(banner(), encoding="utf-8")
+    (OUT / "banner_v2.svg").write_text(banner(), encoding="utf-8")
     (OUT / "glance_v4.svg").write_text(glance(), encoding="utf-8")
     (OUT / "tools.svg").write_text(tools(), encoding="utf-8")
-    print("wrote banner.svg, glance_v4.svg, tools.svg")
+    print("wrote banner_v2.svg, glance_v4.svg, tools.svg")

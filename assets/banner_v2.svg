@@ -54,5 +54,5 @@
         <animate attributeName="opacity" dur="0.9s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.5;0.51;1"/>
       </rect>
     </g>
-  <text x="56" y="188" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#D6E4FF">Data Scientist  ·  Data Analyst  ·  Health Informatics  ·  M.S. Data Science, Florida Poly (May 2027)</text>
+  <text x="56" y="188" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#D6E4FF">Data Scientist  ·  Data Analyst  ·  Health Informatics  ·  M.S. Data Science (May 2027)</text>
 </svg>
