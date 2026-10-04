@@ -23,7 +23,7 @@ I have more than five years of experience working with clinical data, including 
 **[US Hospital EHR Interoperability Analysis](https://github.com/Isaac-Agyapong/US_Hospital_EHR_Interoperability_Analysis)**<br>
 <sub>HEALTH INFORMATICS · EHR DATA QUALITY · POSTGRESQL · SQL · PYTHON · POWER BI</sub>
 
-Can US hospitals share health records electronically? Six years of Medicare data on about 4,500 hospitals, linked to the federal list of certified EHR software. **1 in 8** hospitals failed Medicare's standard in 2024, and **8 in 10** of those had no certified EHR at all. Small rural hospitals fail **twice as often**, and the EHR company matters: about **1 in 100** Epic hospitals failed against **14 in 100** on TruBridge. I also checked the data's own quality and found **585** hospitals that typed "Not Available" instead of their EHR ID.
+Can US hospitals share patient records electronically? Six years of Medicare results for about 4,500 hospitals. **1 in 8** failed Medicare's check in 2024, and **8 in 10** of those had no certified health record software at all. Small rural hospitals fail **twice as often**, and the software company matters: about **1 in 100** Epic hospitals failed, against **14 in 100** on TruBridge. The dashboard lets anyone filter by state, owner or software, or look up one hospital.
 
 [Dashboard and code](https://github.com/Isaac-Agyapong/US_Hospital_EHR_Interoperability_Analysis)
 </td>
@@ -35,7 +35,7 @@ Can US hospitals share health records electronically? Six years of Medicare data
 **[Machine Learning Model for Predicting Hospitals That Fail EHR Interoperability Standards](https://github.com/Isaac-Agyapong/EHR_Interoperability_Risk_Model)**<br>
 <sub>MACHINE LEARNING · XGBOOST · SHAP · POSTGRESQL · PYTHON</sub>
 
-Predicts which US hospitals will fail Medicare's EHR interoperability standard next year, tested on years it never saw. Failing is sticky, so the simple rule "it failed this year" is already strong, and the model matches it. Its value is early warning: among hospitals that passed, its top picks failed **3 times as often** as average and it caught more of them than the best rule. Every hospital gets a risk score with its top three reasons.
+A model that tries to spot, one year ahead, which US hospitals will fail Medicare's yearly check of their electronic health record (EHR) software. Hospitals that fail once usually fail again, so the useful part is warning about the ones that passed: the hospitals it flagged failed **3 times as often** as the rest. Every hospital gets a risk score and the three main reasons behind it.
 
 [Code and results](https://github.com/Isaac-Agyapong/EHR_Interoperability_Risk_Model)
 </td>
