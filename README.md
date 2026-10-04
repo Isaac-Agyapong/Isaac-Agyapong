@@ -11,7 +11,7 @@
 
 I have more than five years of experience working with clinical data, including managing electronic health records for more than 500,000 patients. I build dashboards, analyses and machine learning models that help healthcare teams make better decisions.
 
-<a name="at-a-glance"><img src="assets/glance_v4.svg" alt="5+ years of clinical data work, 500K+ patient records, 8 dashboard, analytics and machine learning projects" width="100%"></a>
+<a name="at-a-glance"><img src="assets/glance_v5.svg" alt="5+ years of clinical data work, 500K+ patient records, 9 dashboard, analytics and machine learning projects" width="100%"></a>
 
 ## Featured projects
 
@@ -26,6 +26,18 @@ I have more than five years of experience working with clinical data, including 
 Can US hospitals share health records electronically? Six years of Medicare data on about 4,500 hospitals, linked to the federal list of certified EHR software. **1 in 8** hospitals failed Medicare's standard in 2024, and **8 in 10** of those had no certified EHR at all. Small rural hospitals fail **twice as often**, and the EHR company matters: about **1 in 100** Epic hospitals failed against **14 in 100** on TruBridge. I also checked the data's own quality and found **585** hospitals that typed "Not Available" instead of their EHR ID.
 
 [Dashboard and code](https://github.com/Isaac-Agyapong/US_Hospital_EHR_Interoperability_Analysis)
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<a href="https://github.com/Isaac-Agyapong/EHR_Interoperability_Risk_Model"><img src="https://raw.githubusercontent.com/Isaac-Agyapong/EHR_Interoperability_Risk_Model/main/Image/early_warning.png" alt="EHR interoperability risk model: early warning results"></a>
+
+**[Machine Learning Model for Predicting Hospitals That Fail EHR Interoperability Standards](https://github.com/Isaac-Agyapong/EHR_Interoperability_Risk_Model)**<br>
+<sub>MACHINE LEARNING · XGBOOST · SHAP · POSTGRESQL · PYTHON</sub>
+
+Predicts which US hospitals will fail Medicare's EHR interoperability standard next year, tested on years it never saw. Failing is sticky, so the simple rule "it failed this year" is already strong, and the model matches it. Its value is early warning: among hospitals that passed, its top picks failed **3 times as often** as average and it caught more of them than the best rule. Every hospital gets a risk score with its top three reasons.
+
+[Code and results](https://github.com/Isaac-Agyapong/EHR_Interoperability_Risk_Model)
 </td>
 </tr>
 <tr>

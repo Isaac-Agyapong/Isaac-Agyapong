@@ -63,7 +63,7 @@ def banner():
 
 def glance():
     facts = [("5+", "years of clinical data work"), ("500K+", "patient records managed"),
-             ("8", "dashboard, analytics &amp; ML projects")]
+             ("9", "dashboard, analytics &amp; ML projects")]
     gap = 16
     w = (900 - gap * (len(facts) - 1)) / len(facts)     # cards share the full width, however many there are
     cells = ""
@@ -110,6 +110,6 @@ def tools():
 
 if __name__ == "__main__":
     (OUT / "banner_v3.svg").write_text(banner(), encoding="utf-8")
-    (OUT / "glance_v4.svg").write_text(glance(), encoding="utf-8")
+    (OUT / "glance_v5.svg").write_text(glance(), encoding="utf-8")
     (OUT / "tools.svg").write_text(tools(), encoding="utf-8")
-    print("wrote banner_v3.svg, glance_v4.svg, tools.svg")
+    print("wrote banner_v3.svg, glance_v5.svg, tools.svg")
